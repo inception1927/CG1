@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\include\shader.h(65): warning C4101: 'infoLog': unreferenced local variable
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\include\shader.h(64): warning C4101: 'success': unreferenced local variable
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(176): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\万群\documents\visual studio 2015\projects\cg1\cg1\main.cpp(186): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CG1.vcxproj -> C:\Users\万群\Documents\Visual Studio 2015\Projects\CG1\Debug\CG1.exe
